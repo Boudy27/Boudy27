@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Boudy27
 - 👀 I’m interested in coding and learning new programming skills
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me abdelrahman.azdn@gmail.com
+- 📫 How to reach me: abdelrahman.azdn@gmail.com / 
 
 <!---
 Boudy27/Boudy27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
